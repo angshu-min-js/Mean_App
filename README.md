@@ -1,12 +1,12 @@
 # Mean_App
 simple full stack app
 
-MongoDB:
+###MongoDB:
 
-Can be used directly, no schema require.
-NoSQL
+- Can be used directly, no schema require.
+- NoSQL
 
-Example:
+#####Example:
 
 ```
 MongoDB shell version: 3.0.4
@@ -31,23 +31,24 @@ speaker" : "Ang" }
 >
 ```
 
-NodeJS:
+###NodeJS:
 
-JavaScript on the Server
-Google’s V8 Engine
-Non-Blocking asyn model
-NPM
+- JavaScript on the Server
+- Google’s V8 Engine
+- Non-Blocking asyn model
+- NPM
 
 
-Express:
+###Express:
 
-Node Framework
-Http server
-Routes
-Middleware
-
+- Node Framework
+- Http server
+- Routes
+- Middleware
+```
 Npm –install < > --save (for saving the dependencies in json)
 
 >>npm install
+```
 
 >>node server
